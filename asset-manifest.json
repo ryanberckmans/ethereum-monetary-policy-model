@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ethereum-monetary-policy/static/css/main.d1b05096.chunk.css",
+    "main.js": "/ethereum-monetary-policy/static/js/main.d1cb2d20.chunk.js",
+    "main.js.map": "/ethereum-monetary-policy/static/js/main.d1cb2d20.chunk.js.map",
+    "runtime-main.js": "/ethereum-monetary-policy/static/js/runtime-main.8ff860ba.js",
+    "runtime-main.js.map": "/ethereum-monetary-policy/static/js/runtime-main.8ff860ba.js.map",
+    "static/js/2.6ffd727a.chunk.js": "/ethereum-monetary-policy/static/js/2.6ffd727a.chunk.js",
+    "static/js/2.6ffd727a.chunk.js.map": "/ethereum-monetary-policy/static/js/2.6ffd727a.chunk.js.map",
+    "index.html": "/ethereum-monetary-policy/index.html",
+    "precache-manifest.61695cc6ca38cd58b3b5196cd6765d8e.js": "/ethereum-monetary-policy/precache-manifest.61695cc6ca38cd58b3b5196cd6765d8e.js",
+    "service-worker.js": "/ethereum-monetary-policy/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/ethereum-monetary-policy/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.6ffd727a.chunk.js.LICENSE.txt": "/ethereum-monetary-policy/static/js/2.6ffd727a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ethereum-monetary-policy/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ff860ba.js",
+    "static/js/2.6ffd727a.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.d1cb2d20.chunk.js"
+  ]
+}
