@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "ETHModel",
+  "name": "Model of Ethereum Monetary Policy",
   "icons": [
     {
       "src": "favicon.ico",
