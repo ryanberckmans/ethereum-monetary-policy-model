@@ -1,8 +1,10 @@
 package ethmodel
 
 // TODO rename this file
-// TODO move other APIs into shared project and have only public JS api here
+// TODO move other APIs into shared project and have only public JS api here, use https://github.com/scala-js/scala-js-stubs so that the export annotations compile on shared code
 // TODO split this into multiple files
+// TODO add native compilation with graalvm and make a CLI version that runs the simulation and dumps JSON or CSV stats to stdout
+// TODO write a real readme, include a plug for Scala+Scala.js for Ethereum development
 
 import scala.util.Random
 import scala.scalajs.js.annotation.{JSExportAll, JSExportTopLevel}
